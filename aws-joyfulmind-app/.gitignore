@@ -1,5 +1,7 @@
 # 필수로 넣어준다.
 node_modules/
+aws-joyfulmind-app/data/combined_data.csv
+aws-joyfulmind-app/model/sbert_model.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -10,7 +12,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+.Pythongit 
 build/
 develop-eggs/
 dist/
